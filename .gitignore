@@ -1,2 +1,3 @@
 *.csv
 *.ftr
+.ipynb_checkpoints
